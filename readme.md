@@ -1,0 +1,1 @@
+Currently learning web development from the odin's project still just starting out although ive learnt HTML and CSS i want to start step by step once more. Learnt about Github i'm so glad i discovered this community.
